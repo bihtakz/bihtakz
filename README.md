@@ -8,7 +8,7 @@
 
 <div>
   <a href="https://github.com/bihtakz">
-   <img height="180cm" src="(https://github-readme-stats.vercel.app/api?username=bihtakz&show_icons=true&theme=dracula%include_all_commits=true%count_private=true)"/>
+   <img height="180cm" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bihtakz)](https://github.com/bihtakz/github-readme-stats)"/>
 <div>  
   
  
